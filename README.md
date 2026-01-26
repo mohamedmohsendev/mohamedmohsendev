@@ -32,7 +32,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedmohsendev&repo=My-E_commerceApp&theme=tokyonight" />
   </a>
   <a href="https://rayyan-ex-launchpad-fsvmmq6a5-mohameds-projects-4003827a.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedmohsendev&repo=launchpad&theme=tokyonight" />
   </a>
 </p>
 
