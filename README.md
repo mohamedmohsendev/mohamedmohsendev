@@ -39,17 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedmohsendev&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmohsendev&theme=tokyonight" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-mohsen-matbuly/">
