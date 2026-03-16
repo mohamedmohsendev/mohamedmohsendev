@@ -14,11 +14,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 📍 **Based in:** Cairo, Egypt  
-- 💼 **Current Focus:** Front-End Development with **React.js** & **Next.js**
-- 🎓 **Education:** ITI Graduate (Full Stack Web Development - MERN Track)
-- 🚀 **Tech Philosophy:** Writing clean, maintainable code and optimizing web performance.
-- 🌱 **Currently Learning:** Advanced **Next.js 14** features and **Unit Testing** (Jest).
+- [cite_start]📍 **Based in:** Cairo, Egypt [cite: 2]
+- [cite_start]💼 **Role:** Front-End Developer specializing in **React.js** and **Modern JavaScript (ES6+)** [cite: 1, 7]
+- [cite_start]🎓 **Education:** ITI MERN Stack Graduate [cite: 8, 18] [cite_start]& B.Sc in Mass Communication [cite: 31]
+- [cite_start]🚀 **Core Focus:** Component-based architecture, state management, and performance optimization [cite: 8]
+- [cite_start]⚡ **Fun Fact:** Improved response time by 58% in previous technical roles through systematic problem-solving [cite: 15]
 
 ---
 
@@ -26,6 +26,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,mongodb,git,github,vscode,vercel" />
 </p>
+
+> [cite_start]**Core Skills:** Redux Toolkit, Context API, React Router v6, Axios, Lazy Loading, and Code Splitting[cite: 48, 49, 50].
 
 ---
 
@@ -36,6 +38,7 @@
   <a href="https://my-e-commerce-app-wine.vercel.app/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedmohsendev&repo=My-E_commerceApp&theme=tokyonight" />
   </a>
+  [cite_start]<p><i>Achieved <b>97 Lighthouse score</b> and 57% performance boost using lazy loading.</i></p>
 
   <a href="https://lelan-perfume.vercel.app/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedmohsendev&repo=lelan-perfume&theme=tokyonight" />
@@ -48,6 +51,8 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedmohsendev&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmohsendev&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
