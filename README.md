@@ -16,9 +16,9 @@
 ### 👨‍💻 About Me
 - 📍 **Based in:** Cairo, Egypt  
 - 💼 **Current Focus:** Front-End Development with **React.js** & **Next.js**
-- 🎓 **Education:** ITI Graduate (MERN Stack Track)
-- 🚀 **Passion:** Clean Code, Performance Optimization, and UX/UI design.
-- 🌱 **Learning:** Currently diving deeper into **Next.js 14** and **Unit Testing**.
+- 🎓 **Education:** ITI Graduate (Full Stack Web Development - MERN Track)
+- 🚀 **Tech Philosophy:** Writing clean, maintainable code and optimizing web performance.
+- 🌱 **Currently Learning:** Advanced **Next.js 14** features and **Unit Testing** (Jest).
 
 ---
 
@@ -33,11 +33,11 @@
 
 <div align="center">
   
-  <a href="https://my-e-commerce-app-wine.vercel.app/">
+  <a href="https://my-e-commerce-app-wine.vercel.app/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedmohsendev&repo=My-E_commerceApp&theme=tokyonight" />
   </a>
 
-  <a href="https://lelan-perfume.vercel.app/">
+  <a href="https://lelan-perfume.vercel.app/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedmohsendev&repo=lelan-perfume&theme=tokyonight" />
   </a>
 
@@ -54,7 +54,7 @@
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-mohsen-matbuly/">
+  <a href="https://www.linkedin.com/in/mohamed-mohsen-matbuly/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:mohsenmido75@gmail.com">
